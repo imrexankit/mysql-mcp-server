@@ -258,7 +258,7 @@ mysql-mcp-server/
 
 ## How This Was Built
 
-This entire project was using Claude AI. Every line of code was written by AI. Every architecture and security decision was made by a human.
+This entire project was made using Claude AI. Every line of code was written by AI. Every architecture and security decision was made by a human.
 Feel free to share any possible improvements and upgrades.
 
 LinkedIn: https://www.linkedin.com/in/ankitm93/
